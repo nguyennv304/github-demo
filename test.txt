@@ -1,1 +1,11 @@
 abcdxyz
+
+
+git status : kiem tra trang thai files
+
+git add . : them file 
+
+git commit -m " your message" : tao noi dung commit
+
+git push origin main : push len GitHub 
+
